@@ -25,13 +25,9 @@ occupation:
 snippet: 
 twitter: raymond_newell_
 github: RaymondNewell
-linkedin: tyler-b-a700a1aa
-stackoverflow: 12935605
+linkedin: raymond-newell-18b76711a
 website: raymondnewell.co.uk
-codepen: tcbutler320
-medium: tbutler0x90
-email: developer.tbutler@gmail.com
-keybase: tbutler320
+email: raymond@raymondnewell.co.uk
 pgp: 
 ctftime: 
 phonenumber: 
@@ -47,7 +43,7 @@ ui_theme: abyss                                 # Create your own theme by setti
 #========================================#
 
 tags:  post jekyll styleguide ipsum
-twitter-widget: false # true,false                  # Used to show your twitter timeline on blog home page
+twitter-widget: true # true,false                  # Used to show your twitter timeline on blog home page
 
 comments: false                                     # Used to enable comments on blog posts
 gitalk_client_id:             
@@ -116,7 +112,7 @@ exclude:
 # -----JEKYLL SCHOLAR SETTINGS-----------#
 #========================================#
 scholar:
-  last_name: Dumbarton
+  last_name: Newell
   style: apa
   locale: en
   source: /_bibliography/
